@@ -1,0 +1,7 @@
+id=karlbins-magiskmod
+name=Karl's binarys
+version=v1.0
+versionCode=10
+author=Zackptg5,KarlHaines82,linux.karl
+description=Magisk Module Template Extended Base, bins and configs from linuxkarl
+updateJson=https://raw.githubusercontent.com/karlhaines82/karlbins-magiskmod/master/update.json
